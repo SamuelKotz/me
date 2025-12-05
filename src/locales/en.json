@@ -109,6 +109,11 @@
       "title": "Nova Docs",
       "dates": "Oct 25 - Nov 25",
       "description": "Nova Docs is a complete documentation solution for software, services, and products. Fully flexible, it allows users to customize and control the content according to their needs. It features an authentication system with differentiated access for visitors, users, and administrators — who can edit and manage content directly within the platform."
+    },
+    {
+      "title": "Aprova Mais+",
+      "dates": "Sep 25 - Nov 25",
+      "description": "Aprova Mais+ is a comprehensive educational hub designed to streamline preparation for ENEM and major university entrance exams. It functions as a complete study ecosystem, allowing students to access structured video lessons, generate personalized study plans, and validate their knowledge through extensive mock exams (simulados) and practice questions. Beyond content delivery, the platform features an integrated AI Tutor for instant academic support and doubt resolution. It also includes a real-time progress dashboard that tracks performance metrics and completion rates, offering data-driven insights to optimize study routines."
     }
   ],
   "hero": {

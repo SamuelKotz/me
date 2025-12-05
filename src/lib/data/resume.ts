@@ -27,6 +27,7 @@ import IBImg from '$lib/imgs/ib.png';
 import Avatar from '$lib/imgs/avatar.jpg';
 import NovaFlow from '$lib/imgs/NovaFlow.png';
 import NovaDocs from '$lib/imgs/NovaDocs.png';
+import AprovaMais from '$lib/imgs/AprovaMais.png';
 
 // Your resume data
 export let DATA = {
@@ -210,15 +211,33 @@ export let DATA = {
 			description:
 				'Nova Docs is a complete documentation solution for software, services, and products. Fully flexible, it allows users to customize and control the content according to their needs. It features an authentication system with differentiated access for visitors, users, and administrators — who can edit and manage content directly within the platform.',
 			technologies: [
-				'Next.js',
-				'Typescript',
-				'Firebase',
-				'TailwindCSS',
-				'Shadcn UI',
-				'React',
-				'AI'
+				'PHP',
+				'Laravel',
+				'XAMPP',
+				'AWS',
+				'Git',
+				'Github'
 			],
 			image: NovaDocs
+		},
+		{
+			title: 'Aprova Mais+',
+			href: '',
+			dates: 'Sep 25 - Nov 25',
+			active: true,
+			description:
+				'Aprova Mais+ is a comprehensive educational hub designed to streamline preparation for ENEM and major university entrance exams. It functions as a complete study ecosystem, allowing students to access structured video lessons, generate personalized study plans, and validate their knowledge through extensive mock exams (simulados) and practice questions. Beyond content delivery, the platform features an integrated AI Tutor for instant academic support and doubt resolution. It also includes a real-time progress dashboard that tracks performance metrics and completion rates, offering data-driven insights to optimize study routines.',
+			technologies: [
+				'Next.js',
+				'React',
+				'Firebase',
+				'AI',
+				'TailwindCSS',
+				'Typescript',
+				'Shadcn UI'
+			],
+			image: AprovaMais,
+			video: ''
 		},
 	],
 	hackathons: []

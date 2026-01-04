@@ -41,7 +41,7 @@ export let DATA = {
 	description:
 		'Software Developer @SupernovaBR',
 	summary:
-		'My name is Samuel Kotz, I’m 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I’m a Software Developer at @SupernovaBR, a tech company based in São Paulo, and a student at IFSul studying Industrial Automation. I’m passionate about technology and love building everything from websites and backend systems to AI applications.',
+		'My name is Samuel Kotz, I’m 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I’m a Software Developer at @SupernovaBR, a tech company based in São Paulo, and a student at UCB - Catholic University of Brasília studying Software Engineering. I’m passionate about technology and love building everything from websites and backend systems to AI applications.',
 	avatarUrl: Avatar,
 	skills: [
 		'Firebase',

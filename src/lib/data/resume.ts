@@ -28,6 +28,7 @@ import Avatar from '$lib/imgs/avatar.jpg';
 import NovaFlow from '$lib/imgs/NovaFlow.png';
 import NovaDocs from '$lib/imgs/NovaDocs.png';
 import AprovaMais from '$lib/imgs/AprovaMais.png';
+import UCBimg from '$lib/imgs/logo_ucb.png';
 
 // Your resume data
 export let DATA = {
@@ -38,7 +39,7 @@ export let DATA = {
 	location: 'Lajeado, Brazil',
 	locationLink: 'https://www.google.com/maps/place/lajeado',
 	description:
-		'Software Developer @SupernovaBR — coffee lover, gamer, and proud Christian.',
+		'Software Developer @SupernovaBR',
 	summary:
 		'My name is Samuel Kotz, I’m 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I’m a Software Developer at @SupernovaBR, a tech company based in São Paulo, and a student at IFSul studying Industrial Automation. I’m passionate about technology and love building everything from websites and backend systems to AI applications.',
 	avatarUrl: Avatar,
@@ -135,6 +136,14 @@ export let DATA = {
 			logoUrl: IFsulImg,
 			start: '2023',
 			end: '2025'
+		},
+		{
+			school: 'UCB - Catholic University of Brasilia',
+			href: 'https://ucb.catolica.edu.br',
+			degree: "Bachelor's Degree in Software Engineering",
+			logoUrl: UCBimg,
+			start: '2026',
+			end: '2030'
 		}
 	],
 	certificates: [

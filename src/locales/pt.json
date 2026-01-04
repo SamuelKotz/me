@@ -2,7 +2,7 @@
   "name": "Samuel Kotz",
   "initials": "SK",
   "location": "Lajeado, Brasil",
-  "description": "Desenvolvedor de Software @SupernovaBR — amante de café, jogador e cristão orgulhoso.",
+  "description": "Desenvolvedor de Software @SupernovaBR",
   "summary": "Meu nome é Samuel Kotz, tenho 18 anos, sou natural de Brasília, Brasil, e atualmente moro em Lajeado. Sou Desenvolvedor de Software na @SupernovaBR, uma empresa de tecnologia com sede em São Paulo, e estudante do IFSul no curso de Automação Industrial. Sou apaixonado por tecnologia e adoro construir de tudo, desde sites e sistemas de backend até aplicações de IA.",
   "navbar": [
     {
@@ -34,8 +34,8 @@
   "work": [
     {
       "company": "SupernovaBR",
-      "location": "Híbrido",
-      "title": "Desenvolvedor de Software",
+      "location": "Remoto",
+      "title": "Desenvolvimento e Governança de Software",
       "start": "Set 2024",
       "end": "Atualmente",
       "description": "Sou responsável por desenvolver e manter uma variedade de sistemas, incluindo chatbots, soluções de IA, bancos de dados e sites. Meu trabalho abrange desde a definição de escopos de software até a implementação e entrega, bem como a liderança de sessões de treinamento e a apresentação de soluções tecnológicas para equipes e clientes."
@@ -46,9 +46,14 @@
   },
   "education": [
     {
-      "school": "IFSul - Campus Lajeado",
+      "school": "IFSul",
       "degree": "Ensino Médio Integrado ao técnico em automação industrial",
       "description": "No IFSul sou estudante do Ensino Médio Integrado ao curso de Automação Industrial e líder da minha turma. Pude participar de projetos de capacitação na área de programação, como cursos de IA da Huawei e UFRN (Universidade Federal do Rio Grande do Norte) e na área de robótica."
+    },
+    {
+      "school": "UCB - Universidade Católica de Brasília",
+      "degree": "Bacharelado em Engenharia de Software",
+      "description": "Cursando Engenharia de Software na Universidade Católica de Brasília (Início em Fev/2026). Focado em construir uma base sólida em desenvolvimento de sistemas, algoritmos e metodologias ágeis para solucionar problemas reais através da tecnologia."
     }
   ],
   "certificates_section": {
@@ -57,7 +62,7 @@
   "certificates": [
     {
       "title": "Lógica da Programação e Algoritmos em JavaScript",
-      "issuer": "Cod3r Cursos / Udemy"
+      "issuer": "Udemy"
     },
     {
       "title": "Informática Básica",
@@ -118,7 +123,7 @@
   ],
   "hero": {
     "greeting": "Olá, eu sou o Samuel 👋",
-    "tagline": "Sou desenvolvedor de software e estudante — movido por tecnologia, jogos, café e fé."
+    "tagline": "Sou desenvolvedor de software e estudante"
   },
   "about": {
     "title": "Sobre"

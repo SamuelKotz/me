@@ -2,7 +2,7 @@
   "name": "Samuel Kotz",
   "initials": "SK",
   "location": "Lajeado, Brazil",
-  "description": "Software Developer @SupernovaBR — coffee lover, gamer, and proud Christian.",
+  "description": "Software Developer @SupernovaBR",
   "summary": "My name is Samuel Kotz, I'm 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I'm a Software Developer at @SupernovaBR, a tech company based in São Paulo, and a student at IFSul studying Industrial Automation. I'm passionate about technology and love building everything from websites and backend systems to AI applications.",
   "navbar": [
     {
@@ -34,8 +34,8 @@
   "work": [
     {
       "company": "SupernovaBR",
-      "location": "Hybrid",
-      "title": "Software Developer",
+      "location": "Remote",
+      "title": "Software Development and Governance",
       "start": "Sep 2024",
       "end": "At moment",
       "description": "I am responsible for developing and maintaining a variety of systems, including chatbots, AI solutions, databases, and websites. My work spans from defining software scopes to implementation and delivery, as well as leading training sessions and presenting technological solutions to teams and clients."
@@ -46,9 +46,14 @@
   },
   "education": [
     {
-      "school": "IFSul - Campus Lajeado",
+      "school": "IFSul",
       "degree": "High School Integrated with a Technical Course in Industrial Automation",
       "description": "At IFSul, I am a high school student in the Integrated Industrial Automation program and my class leader. I have participated in training projects in programming, including AI courses from Huawei and UFRN (Federal University of Rio Grande do Norte), and in robotics."
+    },
+    {
+      "school": "UCB - Catholic University of Brasilia",
+      "degree": "Bachelor's Degree in Software Engineering",
+      "description": "Pursuing a B.S. in Software Engineering at UCB (Starting Feb 2026). Focused on building a strong foundation in software development, algorithms, and agile methodologies to solve real-world problems through technology."
     }
   ],
   "certificates_section": {
@@ -57,7 +62,7 @@
   "certificates": [
     {
       "title": "Programming Logic and Algorithms in JavaScript",
-      "issuer": "Cod3r Cursos / Udemy"
+      "issuer": "Udemy"
     },
     {
       "title": "Basic Informatics",
@@ -118,7 +123,7 @@
   ],
   "hero": {
     "greeting": "Hi, I'm Samuel 👋",
-    "tagline": "I'm a software developer and student — driven by technology, games, coffee, and faith."
+    "tagline": "I'm a software developer and student"
   },
   "about": {
     "title": "About"

@@ -28,7 +28,7 @@ import Avatar from '$lib/imgs/avatar.jpg';
 import NovaFlow from '$lib/imgs/NovaFlow.png';
 import NovaDocs from '$lib/imgs/NovaDocs.png';
 import AprovaMais from '$lib/imgs/AprovaMais.png';
-import UCBimg from '$lib/imgs/logo_ucb.png';
+import UnivesityIMG from '$lib/imgs/logo lasalle.jpg';
 
 // Your resume data
 export let DATA = {
@@ -39,9 +39,9 @@ export let DATA = {
 	location: 'Lajeado, Brazil',
 	locationLink: 'https://www.google.com/maps/place/lajeado',
 	description:
-		'Software Developer @SupernovaBR',
+		'Tech Team Leader @SupernovaBR',
 	summary:
-		'My name is Samuel Kotz, I’m 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I’m a Software Developer at @SupernovaBR, a tech company based in São Paulo, and a student at UCB - Catholic University of Brasília studying Software Engineering. I’m passionate about technology and love building everything from websites and backend systems to AI applications.',
+		'My name is Samuel Kotz, I’m 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I’m a Tech Team Leader at @SupernovaBR, a tech company based in São Paulo, and a student at University LaSalle studying Software Engineering. Currently focused in developing AI applications and automation systems.',
 	avatarUrl: Avatar,
 	skills: [
 		'Firebase',
@@ -119,29 +119,29 @@ export let DATA = {
 			company: 'SupernovaBR',
 			href: 'https://supernovabr.com/',
 			badges: [],
-			location: 'Hybrid',
-			title: 'Software Developer',
+			location: 'Remote',
+			title: 'Tech Team Leader',
 			logoUrl: SupernovaIMG,
 			start: 'Sep 2024',
 			end: 'At moment',
 			description:
-				'I am responsible for developing and maintaining a variety of systems, including chatbots, AI solutions, databases, and websites. My work spans from defining software scopes to implementation and delivery, as well as leading training sessions and presenting technological solutions to teams and clients.'
+				'I am responsible for developing and maintaining a variety of systems, including chatbots, AI solutions, databases, and websites.'
 		}
 	],
 	education: [
 		{
 			school: 'IFSul - Campus Lajeado',
 			href: 'https://www.lajeado.ifsul.edu.br/',
-			degree: 'High SchoolIntegrated high school with a technical course in industrial automation',
+			degree: 'High School Integrated high school with a technical course in industrial automation',
 			logoUrl: IFsulImg,
 			start: '2023',
 			end: '2025'
 		},
 		{
-			school: 'UCB - Catholic University of Brasilia',
-			href: 'https://ucb.catolica.edu.br',
+			school: 'University LaSalle',
+			href: 'https://unilasalle.edu.br',
 			degree: "Bachelor's Degree in Software Engineering",
-			logoUrl: UCBimg,
+			logoUrl: UnivesityIMG,
 			start: '2026',
 			end: '2030'
 		}

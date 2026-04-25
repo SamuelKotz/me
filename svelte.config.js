@@ -37,7 +37,7 @@ const config = {
         },
         prerender: {
             entries: ['*'],
-            handleMissingId: false
+            handleMissingId: "warn"
         }
 	}
 };

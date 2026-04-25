@@ -39,9 +39,9 @@ export let DATA = {
 	location: 'Lajeado, Brazil',
 	locationLink: 'https://www.google.com/maps/place/lajeado',
 	description:
-		'Tech Team Leader @SupernovaBR',
+		'Tech Leader @SupernovaBR',
 	summary:
-		'My name is Samuel Kotz, I’m 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I’m a Tech Team Leader at @SupernovaBR, a tech company based in São Paulo, and a student at University LaSalle studying Software Engineering. Currently focused in developing AI applications and automation systems.',
+		'My name is Samuel Kotz, I’m 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I’m a Tech Leader at @SupernovaBR, a tech company based in São Paulo, and a student at University LaSalle studying Software Engineering. Currently focused in developing AI applications and automation systems.',
 	avatarUrl: Avatar,
 	skills: [
 		'Firebase',
@@ -59,6 +59,9 @@ export let DATA = {
 		'MySQL',
 		'noSQL',
 		'AWS',
+		'Lambda',
+		'Azure',
+		'Google Cloud',
 		'Git',
 		'Github',
 		'Javascript',
@@ -67,6 +70,11 @@ export let DATA = {
 		'CSS',
 		'Svelte',
 		'AI',
+		'LLM',
+		'OpenAI',
+		'DeepSeek',
+		'Agentic AI',
+		'Meta API',
 		'TailwindCSS'
 	],
 	navbar: [
@@ -120,12 +128,12 @@ export let DATA = {
 			href: 'https://supernovabr.com/',
 			badges: [],
 			location: 'Remote',
-			title: 'Tech Team Leader',
+			title: 'Tech Leader',
 			logoUrl: SupernovaIMG,
 			start: 'Sep 2024',
 			end: 'At moment',
 			description:
-				'I am responsible for developing and maintaining a variety of systems, including chatbots, AI solutions, databases, and websites.'
+				'Leading the internal development team, building systems, automations and chatbots. Database and cloud management. Research and development of artificial intelligence.'
 		}
 	],
 	education: [
@@ -150,9 +158,6 @@ export let DATA = {
 		{},
 		{},
 		{},
-		{},
-		{},
-		{},
 		{}
 	],
 	languages: [
@@ -164,7 +169,7 @@ export let DATA = {
 			title: 'Nova Flow',
 			href: '',
 			dates: 'Aug 25 - Oct 2025',
-			active: true,
+			active: false,
 			description:
 				'Nova Flow is a complete web application that simulates a Kanban board, allowing users to create boards, add lists (columns), and manage cards (tasks) with custom descriptions and checklists. Beyond task management, the project features an integrated CRM with modules for client information, health status, files, and meeting history — all enhanced with AI-powered features. It also includes a Custom Inventory system and a real-time Dashboard for monitoring customer service data.',
 			technologies: [
@@ -183,7 +188,7 @@ export let DATA = {
 			title: 'Magic UI',
 			href: 'https://magicui.design',
 			dates: 'June 2023 - Present',
-			active: true,
+			active: false,
 			description: 'Designed, developed and sold animated UI components for developers.',
 			technologies: [
 				'Next.js',
@@ -216,7 +221,7 @@ export let DATA = {
 			title: 'Nova Docs',
 			href: '',
 			dates: 'Oct 25 - Nov 25',
-			active: true,
+			active: false,
 			description:
 				'Nova Docs is a complete documentation solution for software, services, and products. Fully flexible, it allows users to customize and control the content according to their needs. It features an authentication system with differentiated access for visitors, users, and administrators — who can edit and manage content directly within the platform.',
 			technologies: [
@@ -233,7 +238,7 @@ export let DATA = {
 			title: 'Aprova Mais+',
 			href: '',
 			dates: 'Sep 25 - Nov 25',
-			active: true,
+			active: false,
 			description:
 				'Aprova Mais+ is a comprehensive educational hub designed to streamline preparation for ENEM and major university entrance exams. It functions as a complete study ecosystem, allowing students to access structured video lessons, generate personalized study plans, and validate their knowledge through extensive mock exams (simulados) and practice questions. Beyond content delivery, the platform features an integrated AI Tutor for instant academic support and doubt resolution. It also includes a real-time progress dashboard that tracks performance metrics and completion rates, offering data-driven insights to optimize study routines.',
 			technologies: [

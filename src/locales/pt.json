@@ -2,8 +2,8 @@
   "name": "Samuel Kotz",
   "initials": "SK",
   "location": "Lajeado, Brasil",
-  "description": "Tech Team Leader @SupernovaBR",
-  "summary": "Meu nome é Samuel Kotz, tenho 18 anos, sou natural de Brasília, Brasil, e atualmente moro em Lajeado. Sou Tech Team Leader na @SupernovaBR, uma empresa de tecnologia com sede em São Paulo, e estudante da Universidade La Salle no curso de Engenharia de Software. Atualmente focado no desenvolvimento de aplicações de IA e sistemas de automação.",
+  "description": "Tech Leader @SupernovaBR",
+  "summary": "Meu nome é Samuel Kotz, tenho 18 anos, sou natural de Brasília, Brasil, e atualmente moro em Lajeado. Sou Tech Leader na @SupernovaBR, uma empresa de tecnologia com sede em São Paulo, e estudante da Universidade La Salle no curso de Engenharia de Software. Atualmente focado no desenvolvimento de aplicações de IA e sistemas de automação.",
   "navbar": [
     {
       "label": "Início"
@@ -35,10 +35,10 @@
     {
       "company": "SupernovaBR",
       "location": "Remoto",
-      "title": "Tech Team Leader",
+      "title": "Tech Leader",
       "start": "Set 2024",
       "end": "Atualmente",
-      "description": "Sou responsável por desenvolver e manter uma variedade de sistemas, incluindo chatbots, soluções de IA, bancos de dados e sites."
+      "description": "Liderança do time de desenvolvimento interno, criando sistemas, automações e chatbots. Gerenciamento de banco de dados e cloud. Pesquisa e desenvolvimento de inteligência artificial."
     }
   ],
   "education_section": {
@@ -60,18 +60,6 @@
     "title": "Cursos e Certificações"
   },
   "certificates": [
-    {
-      "title": "Lógica da Programação e Algoritmos em JavaScript",
-      "issuer": "Udemy"
-    },
-    {
-      "title": "Informática Básica",
-      "issuer": "IFSUL"
-    },
-    {
-      "title": "Manutenção de Computadores",
-      "issuer": "IFSUL"
-    },
     {
       "title": "Microsoft Azure AI Fundamentals: AI Overview",
       "issuer": "Microsoft"

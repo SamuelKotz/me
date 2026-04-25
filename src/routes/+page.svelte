@@ -167,6 +167,8 @@
         </div>
     </section>
 
+    <!-- Projects section disabled -->
+    <!--
     <section id="projects">
         <div class="w-full space-y-12 py-12">
             <BlurFade delay={BLUR_FADE_DELAY}>
@@ -204,6 +206,7 @@
             </div>
         </div>
     </section>
+    -->
 
     <section id="contact">
         <div class="grid w-full items-center justify-center gap-4 px-4 py-12 text-center md:px-6">

@@ -2,8 +2,8 @@
   "name": "Samuel Kotz",
   "initials": "SK",
   "location": "Lajeado, Brazil",
-  "description": "Tech Team Leader @SupernovaBR",
-  "summary": "My name is Samuel Kotz, I'm 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I'm a Tech Team Leader at @SupernovaBR, a tech company based in São Paulo, and a student at University LaSalle studying Software Engineering. Currently focused in developing AI applications and automation systems.",
+  "description": "Tech Leader @SupernovaBR",
+  "summary": "My name is Samuel Kotz, I'm 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I'm a Tech Leader at @SupernovaBR, a tech company based in São Paulo, and a student at University LaSalle studying Software Engineering. Currently focused in developing AI applications and automation systems.",
   "navbar": [
     {
       "label": "Home"
@@ -35,10 +35,10 @@
     {
       "company": "SupernovaBR",
       "location": "Remote",
-      "title": "Tech Team Leader",
+      "title": "Tech Leader",
       "start": "Sep 2024",
       "end": "At moment",
-      "description": "I am responsible for developing and maintaining a variety of systems, including chatbots, AI solutions, databases, and websites."
+      "description": "Leading the internal development team, building systems, automations and chatbots. Database and cloud management. Research and development of artificial intelligence."
     }
   ],
   "education_section": {
@@ -60,18 +60,6 @@
     "title": "Courses and Certifications"
   },
   "certificates": [
-    {
-      "title": "Programming Logic and Algorithms in JavaScript",
-      "issuer": "Udemy"
-    },
-    {
-      "title": "Basic Informatics",
-      "issuer": "IFSUL"
-    },
-    {
-      "title": "Computer Maintenance",
-      "issuer": "IFSUL"
-    },
     {
       "title": "Microsoft Azure AI Fundamentals: AI Overview",
       "issuer": "Microsoft"

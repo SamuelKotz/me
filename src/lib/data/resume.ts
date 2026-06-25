@@ -39,9 +39,9 @@ export let DATA = {
 	location: 'Lajeado, Brazil',
 	locationLink: 'https://www.google.com/maps/place/lajeado',
 	description:
-		'Tech Leader @SupernovaBR',
+		'Solutions Architect IT @SupernovaBR',
 	summary:
-		'My name is Samuel Kotz, I’m 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I’m a Tech Leader at @SupernovaBR, a tech company based in São Paulo, and a student at University LaSalle studying Software Engineering. Currently focused in developing AI applications and automation systems.',
+		'My name is Samuel Kotz, I’m 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I’m a Solutions Architect IT at @SupernovaBR, a tech company based in São Paulo, and a student at University LaSalle studying Software Engineering. Currently focused in developing AI applications and automation systems.',
 	avatarUrl: Avatar,
 	skills: [
 		'Firebase',
@@ -75,7 +75,20 @@ export let DATA = {
 		'DeepSeek',
 		'Agentic AI',
 		'Meta API',
-		'TailwindCSS'
+		'TailwindCSS',
+		'Docker',
+		'Kubernetes',
+		'Microservices',
+		'Event-Driven Architecture',
+		'REST APIs',
+		'GraphQL',
+		'DDD',
+		'Clean Architecture',
+		'Message Queues',
+		'CI/CD',
+		'System Design',
+		'UML',
+		'Security Architecture'
 	],
 	navbar: [
 		{ href: '/', icon: HomeIcon, label: 'Home' },
@@ -128,12 +141,12 @@ export let DATA = {
 			href: 'https://supernovabr.com/',
 			badges: [],
 			location: 'Remote',
-			title: 'Tech Leader',
+			title: 'Solutions Architect IT',
 			logoUrl: SupernovaIMG,
 			start: 'Sep 2024',
 			end: 'At moment',
 			description:
-				'Leading the internal development team, building systems, automations and chatbots. Database and cloud management. Research and development of artificial intelligence.'
+				'Responsible for designing and defining technology solutions architecture, bridging business requirements and technical implementation. Involves scalable system design, platform integration, technology stack definition, feasibility analysis, and architecture governance.'
 		}
 	],
 	education: [

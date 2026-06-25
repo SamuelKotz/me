@@ -2,8 +2,8 @@
   "name": "Samuel Kotz",
   "initials": "SK",
   "location": "Lajeado, Brazil",
-  "description": "Tech Leader @SupernovaBR",
-  "summary": "My name is Samuel Kotz, I'm 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I'm a Tech Leader at @SupernovaBR, a tech company based in São Paulo, and a student at University LaSalle studying Software Engineering. Currently focused in developing AI applications and automation systems.",
+  "description": "Solutions Architect IT @SupernovaBR",
+  "summary": "My name is Samuel Kotz, I'm 18 years old, originally from Brasília, Brazil, and currently living in Lajeado. I'm a Solutions Architect IT at @SupernovaBR, a tech company based in São Paulo, and a student at University LaSalle studying Software Engineering. Currently focused in developing AI applications and automation systems.",
   "navbar": [
     {
       "label": "Home"
@@ -35,10 +35,10 @@
     {
       "company": "SupernovaBR",
       "location": "Remote",
-      "title": "Tech Leader",
+      "title": "Solutions Architect IT",
       "start": "Sep 2024",
       "end": "At moment",
-      "description": "Leading the internal development team, building systems, automations and chatbots. Database and cloud management. Research and development of artificial intelligence."
+      "description": "Responsible for designing and defining technology solutions architecture, bridging business requirements and technical implementation. Involves scalable system design, platform integration, technology stack definition, feasibility analysis, and architecture governance."
     }
   ],
   "education_section": {
@@ -111,7 +111,7 @@
   ],
   "hero": {
     "greeting": "Hi, I'm Samuel 👋",
-    "tagline": "I'm a software developer and student"
+    "tagline": "I'm a Solutions Architect IT, and a Software Engineering student"
   },
   "about": {
     "title": "About"

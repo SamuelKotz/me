@@ -2,8 +2,8 @@
   "name": "Samuel Kotz",
   "initials": "SK",
   "location": "Lajeado, Brasil",
-  "description": "Tech Leader @SupernovaBR",
-  "summary": "Meu nome é Samuel Kotz, tenho 18 anos, sou natural de Brasília, Brasil, e atualmente moro em Lajeado. Sou Tech Leader na @SupernovaBR, uma empresa de tecnologia com sede em São Paulo, e estudante da Universidade La Salle no curso de Engenharia de Software. Atualmente focado no desenvolvimento de aplicações de IA e sistemas de automação.",
+  "description": "Arquiteto de Soluções TI @SupernovaBR",
+  "summary": "Meu nome é Samuel Kotz, tenho 18 anos, sou natural de Brasília, Brasil, e atualmente moro em Lajeado. Sou Arquiteto de Soluções TI na @SupernovaBR, uma empresa de tecnologia com sede em São Paulo, e estudante da Universidade La Salle no curso de Engenharia de Software. Atualmente focado no desenvolvimento de aplicações de IA e sistemas de automação.",
   "navbar": [
     {
       "label": "Início"
@@ -35,10 +35,10 @@
     {
       "company": "SupernovaBR",
       "location": "Remoto",
-      "title": "Tech Leader",
+      "title": "Arquiteto de Soluções TI",
       "start": "Set 2024",
       "end": "Atualmente",
-      "description": "Liderança do time de desenvolvimento interno, criando sistemas, automações e chatbots. Gerenciamento de banco de dados e cloud. Pesquisa e desenvolvimento de inteligência artificial."
+      "description": "Responsável pela concepção e definição da arquitetura de soluções tecnológicas, atuando na ponte entre requisitos de negócio e implementação técnica. Envolve design de sistemas escaláveis, integração entre plataformas, definição de stack tecnológica, análise de viabilidade técnica e governança de arquitetura."
     }
   ],
   "education_section": {
@@ -111,7 +111,7 @@
   ],
   "hero": {
     "greeting": "Olá, eu sou o Samuel 👋",
-    "tagline": "Sou desenvolvedor de software e estudante"
+    "tagline": "Sou arquiteto de soluções em TI, e estudante de engenharia de software."
   },
   "about": {
     "title": "Sobre"
